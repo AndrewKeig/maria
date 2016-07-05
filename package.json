@@ -1,0 +1,25 @@
+{
+  "name": "maria",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewKeig/maria.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewKeig/maria/issues"
+  },
+  "homepage": "https://github.com/AndrewKeig/maria#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "knex": "^0.11.7",
+    "mariasql": "^0.2.6",
+    "nconf": "^0.8.4"
+  }
+}
